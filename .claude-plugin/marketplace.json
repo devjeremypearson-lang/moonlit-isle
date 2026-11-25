@@ -1,0 +1,5 @@
+{
+  "name": "moonlit-isle",
+  "owner": { "name": "devjeremypearson-lang" },
+  "plugins": [{ "name": "moonlit-isle", "source": "./" }]
+}
